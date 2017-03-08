@@ -66,7 +66,7 @@
         <p class="my-status regular-text text_color_white">Личный сайт веб-разработчика</p>
       </div>
     </div>
-    <div class="header__down-button"><a href="#">
+    <div class="header__down-button"><a class="header__down-button_link" href="#">
         <svg class="arrow_down">
           <use xlink:href="assets/sprite/sprite.svg#arrow_down"></use>
         </svg></a></div>
@@ -88,10 +88,45 @@
         </svg>
         <p class="regular-text text_color_white">Посмотреть сайт</p></a>
     </div>
-    <div class="right-block__main-pic"><img class="preview-pic" src="assets/img/preview_pic.png"></div>
+    <div class="right-block__main-pic">
+      <ul class="slideshow__list">
+        <li class="slideshow__item"><a class="slideshow__link" href="#"><img class="slideshow__img" src="assets/img/yoga_pic.png" alt=""></a></li>
+        <li class="slideshow__item"><a class="slideshow__link" href="#"><img class="slideshow__img" src="assets/img/yoga_pic.png" alt=""></a></li>
+        <li class="slideshow__item"><a class="slideshow__link" href="#"><img class="slideshow__img" src="assets/img/yoga_pic.png" alt=""></a></li>
+        <li class="slideshow__item"><a class="slideshow__link" href="#"><img class="slideshow__img" src="assets/img/yoga_pic.png" alt=""></a></li>
+      </ul>
+    </div>
     <div class="right-block__button-box">
-      <div class="right-block__prev-pic"><img class="prev-pic" src="assets/img/trialog_pic.png"></div>
-      <div class="right-block__next-pic"><img class="next-pic" src="assets/img/trialog_pic.png"></div>
+      <div class="right-block__prev-pic">
+        <div class="slider__display">
+          <ul class="slider__list">
+            <li class="slider__item"><img class="slider__img_down" src="assets/img/trialog_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_down" src="assets/img/yoga_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_down" src="assets/img/trialog_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_down" src="assets/img/yoga_pic.png" alt=""></li>
+          </ul>
+        </div>
+        <button class="slider__button slider__button-down">
+          <svg class="arrow_down slider__arrow-down">
+            <use xlink:href="assets/sprite/sprite.svg#arrow_down"></use>
+          </svg>
+        </button>
+      </div>
+      <div class="right-block__next-pic">
+        <div class="slider__display">
+          <ul class="slider__list">
+            <li class="slider__item"><img class="slider__img_up" src="assets/img/trialog_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_up" src="assets/img/yoga_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_up" src="assets/img/trialog_pic.png" alt=""></li>
+            <li class="slider__item"><img class="slider__img_up" src="assets/img/yoga_pic.png" alt=""></li>
+          </ul>
+        </div>
+        <button class="slider__button slider__button-up">
+          <svg class="arrow_down slider__arrow-up">
+            <use xlink:href="assets/sprite/sprite.svg#arrow_down"></use>
+          </svg>
+        </button>
+      </div>
     </div>
   </div>
   <div class="review-block__wrapper">
@@ -134,7 +169,7 @@
         </div>
       </form>
     </div>
-    <div class="review-block__up-button"><a href="#">
+    <div class="review-block__up-button"><a class="review-block__up-link" href="#">
         <svg class="arrow-up">
           <use xlink:href="assets/sprite/sprite.svg#portf_arrow_up"></use>
         </svg></a></div>

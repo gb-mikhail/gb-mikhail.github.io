@@ -64,7 +64,7 @@
         <p class="my-status regular-text text_color_white">Статьи, которые я написал</p>
       </div>
     </div>
-    <div class="header__down-button"><a href="#">
+    <div class="header__down-button"><a class="header__down-button_link" href="#">
         <svg class="arrow_down">
           <use xlink:href="assets/sprite/sprite.svg#arrow_down"></use>
         </svg></a></div>
@@ -78,14 +78,15 @@
     </div>
   </div>
   <div class="main-information__wrapper main-information__wrapper_blog-style">
-    <div class="left-navigation">
-      <ul class="left-navigation__list">
-        <li class="left-navigation__item" href="#"><a class="left-navigation__link">Самое важное в SASS</a></li>
-        <li class="left-navigation__item" href="#"><a class="left-navigation__link">
+    <button class="swipe-button"></button>
+    <div class="swipe-button__left-nav">
+      <ul class="swipe-button__list">
+        <li class="swipe-button__item" href="#"><a class="swipe-button__link">Самое важное в SASS</a></li>
+        <li class="swipe-button__item" href="#"><a class="swipe-button__link">
             Приёмы в вёрстке, без которых
             не обходится ни один сайт</a></li>
-        <li class="left-navigation__item" href="#"><a class="left-navigation__link">Самый необходимый набор Gulp плагинов</a></li>
-        <li class="left-navigation__item" href="#"><a class="left-navigation__link">Почему я выбрал Jade</a></li>
+        <li class="swipe-button__item" href="#"><a class="swipe-button__link">Самый необходимый набор Gulp плагинов</a></li>
+        <li class="swipe-button__item" href="#"><a class="swipe-button__link">Почему я выбрал Jade</a></li>
       </ul>
     </div>
     <div class="article-container">
@@ -157,15 +158,3 @@
     </div>
   </div>
 </div>
-<button class="swipe-button">
-  <div class="swipe-button__left-nav">
-    <ul class="swipe-button__list">
-      <li class="swipe-button__item" href="#"><a class="swipe-button__link">Самое важное в SASS</a></li>
-      <li class="swipe-button__item" href="#"><a class="swipe-button__link">
-          Приёмы в вёрстке, без которых
-          не обходится ни один сайт</a></li>
-      <li class="swipe-button__item" href="#"><a class="swipe-button__link">Самый необходимый набор Gulp плагинов</a></li>
-      <li class="swipe-button__item" href="#"><a class="swipe-button__link">Почему я выбрал Jade</a></li>
-    </ul>
-  </div>
-</button>
