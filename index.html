@@ -2,13 +2,13 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>My_LoftSchool_homework</title>
+    <title></title>
     <meta content="" name="author">
     <meta content="" name="description">
     <meta content="" name="keywords">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta content="ie=edge" http-equiv="x-ua-compatible">
-    <link rel="SHORTCUT ICON" href="assets/img/fav_night.png">
+    <link rel="SHORTCUT ICON" href="#">
     <link rel="stylesheet" href="/assets/css/foundation.css">
     <link rel="stylesheet" href="/assets/css/fonts.css">
     <link rel="stylesheet" href="/assets/css/main.css">
@@ -16,122 +16,53 @@
     <script src="/assets/js/app.js" defer></script><!--[if lt IE 9]>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script><![endif]-->
   </head>
-  <body>
-    <div class="preloader">
-      <div class="preloader__spinner">
-        <div class="preloader__animation"></div>
-        <div class="preloader__percents">0%</div>
-      </div>
-    </div>
-  </body>
+  <body></body>
 </html>
-<div class="parallax-wrapper">
-  <div class="parallax" id="parallax">
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/sky-min.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/stars_5.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/stars_4.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/stars_3.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/stars_2.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/stars_1-min.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/mounts-min.png"></div>
-    <div class="parallax__layer"><img class="parallax-pic" src="assets/img/forest-min.png"></div>
-  </div>
-  <div class="welcome-wrapper">
-    <div class="header__auth-button">
-      <button class="auth-button" type="button">
-        <p class="light-text text_color_white">Авторизоваться</p>
-      </button>
+<div class="main-wrapper">
+  <div class="wrapper">
+    <div class="wrapper__color">
+      <div class="wrapper__bg"></div>
     </div>
-    <div class="flip-container__wrapper">
-      <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
-        <div class="main-form__wrapper">
-          <div class="welcome-form">
-            <div class="my-photo"><img class="my-photo_photo" src="assets/img/photo.png"></div>
-            <p class="my-name">Губа Михаил</p>
-            <p class="my-status regular-text text_color_white">Личный сайт веб-разработчика</p>
-            <div class="my-social-icons-wrapper">
-              <div class="header__social-icons">
-                <ul class="social-icons__list">
-                  <li class="social-icons__item"><a class="social-icons__link" href="https://vk.com/raulduke_kk" target="_blank">
-                      <svg class="social-icons__icon">
-                        <use xlink:href="assets/sprite/sprite.svg#vk"></use>
-                      </svg></a></li>
-                  <li class="social-icons__item"><a class="social-icons__link" href="https://github.com/gb-mikhail" target="_blank">
-                      <svg class="social-icons__icon">
-                        <use xlink:href="assets/sprite/sprite.svg#github"></use>
-                      </svg></a></li>
-                  <li class="social-icons__item"><a class="social-icons__link" href="#" target="_blank">
-                      <svg class="social-icons__icon">
-                        <use xlink:href="assets/sprite/sprite.svg#in"></use>
-                      </svg></a></li>
-                </ul>
-              </div>
-            </div>
-            <ul class="my-navigation__list">
-              <li class="my-navigation__item"><a class="my-navigation__link regular-text text_color_white" href="my-works.html">
-                  Мои работы
-                  </a></li>
-              <li class="my-navigation__item"><a class="my-navigation__link regular-text text_color_white" href="about-me.html">
-                  Обо мне
-                  </a></li>
-              <li class="my-navigation__item"><a class="my-navigation__link regular-text text_color_white" href="blog.html">Блог</a></li>
-            </ul>
-          </div>
-          <div class="sign-in-form">
-            <h2 class="main_h2 text_color_white">авторизируйтесь</h2>
-            <div class="sign-in__wrapper">
-              <form class="sign-in__main-form" action="" method="POST" name="contactForm" onSubmit="return checkform(this)">
-                <div class="sign-in__container">
-                  <label class="sign-in__label" for="userName">
-                    <svg class="sign-in__icon">
-                      <use xlink:href="assets/sprite/sprite.svg#login"></use>
-                    </svg>
-                  </label>
-                  <input class="sign-in__input" id="userName" name="login" type="login" placeholder="Логин" required>
-                </div>
-                <p id="login-input__error">Ошибочка</p>
-                <p id="login-input__accept">Все отлично</p>
-                <p id="good-job"></p>
-                <div class="sign-in__container">
-                  <label class="sign-in__label" for="userPassword">
-                    <svg class="sign-in__icon">
-                      <use xlink:href="assets/sprite/sprite.svg#password"></use>
-                    </svg>
-                  </label>
-                  <input class="sign-in__input" id="userPassword" name="password" type="password" placeholder="Пароль" required>
-                </div>
-                <p id="pass-input__error">Ошибочка</p>
-                <p id="pass-input__accept">
-                  Все отлично
-                  
-                </p>
-              </form>
-            </div>
-            <div class="sign-in__checkbox-wrapper">
-              <input class="sign-in__checkbox-input" id="checkbox" type="checkbox" required>
-              <label class="sign-in__checkbox-label text_color_white" for="checkbox"><span class="sign-in__checkbox-input_fake"></span>  Я человек</label>
-            </div>
-            <div class="sign-in__radio-btns-wrapper">
-              <p class="sign-in__heading text_color_white">Вы точно не робот?</p>
-              <div class="sign-in__radio-btns-list">
-                <input class="sign-in__radio-btn-input" id="radio-btn" name="radio-btn" type="radio" value="Yes">
-                <label class="sign-in__radio-btn_label text_color_white" for="radio-btn"><span class="sign-in__radio-btn-input_fake"></span>  Да</label>
-                <input class="sign-in__radio-btn-input" id="radio-btn_2" name="radio-btn" type="radio" value="No">
-                <label class="sign-in__radio-btn_label text_color_white" for="radio-btn_2"><span class="sign-in__radio-btn-input_fake"></span>  Не уверен</label>
-              </div>
-            </div>
-            <ul class="sign-in__list">
-              <li class="sign-in__item" id="back-to-main-button"><a class="sign-in__link sign-in__link_return regular-text text_color_white" href="#">
-                  На главную
-                  </a></li>
-              <li class="sign-in__item"><a class="sign-in__link regular-text text_color_white" id="auth_1" href="#">Войти</a></li>
-            </ul>
-          </div>
-        </div>
+  </div>
+  <div class="header"><a class="header__logo-link" href="#">
+      <svg class="header__logo-icon">
+        <use xlink:href="assets/sprite/Logo.svg#logo"></use>
+      </svg></a><a class="header__contact-link" href="#">
+      <svg class="header__contact-icon">
+        <use xlink:href="assets/sprite/telephone.svg#telephone"></use>
+      </svg>
+      <p class="header__contact-text">Контакты</p></a></div>
+  <div class="content">
+    <div class="parallax-wrapper">
+      <div class="parallax" id="parallax">
+        <div class="parallax__fake"></div>
+        <p class="parallax__navigation-big-name company parallax__navigation-big-name_active">О компании</p>
+        <p class="parallax__navigation-big-name production">О производстве</p>
+        <p class="parallax__navigation-big-name product">Продукция</p>
+        <p class="parallax__navigation-big-name gallery">Фотогалерея</p>
+        <p class="parallax__navigation-big-name news">Новости</p>
+        <svg class="parallax__shape1">
+          <use xlink:href="assets/sprite/shape1.svg#shape1"></use>
+        </svg>
+        <svg class="parallax__shape2">
+          <use xlink:href="assets/sprite/shape2.svg#shape2"></use>
+        </svg>
+        <div class="parallax__slider"><a class="parallax__slider-pic" href="#">
+            <svg class="parallax__slider-arrowLeft">
+              <use xlink:href="assets/sprite/arrowLeft.svg#arrowLeft"></use>
+            </svg>
+            <p class="parallax__slider-text">Перейти</p>
+            <div class="parallax__slider-pic_shadow"><img class="slider__img slider__img_active" src="assets/img/about_comp.png"><img class="slider__img" src="assets/img/about_comp2.png"><img class="slider__img" src="assets/img/about_comp3.png"><img class="slider__img" src="assets/img/about_comp4.png"><img class="slider__img" src="assets/img/about_comp5.png"></div></a></div>
       </div>
     </div>
-    <div class="footer">
-      <p class="footer__text light-text text_color_white">© Губа Михаил | создавалось бессонными ночами во время обучения в LoftSchool | 2017</p>
-    </div>
+  </div>
+  <div class="navigation">
+    <ul class="navigation__list">
+      <li class="navigation__item"><span class="navigation__fake-item navigation__fake-item_hover-color-orange navigation__item_active"></span><a class="navigation__link navigation__link_active">О компании</a></li>
+      <li class="navigation__item"><span class="navigation__fake-item navigation__fake-item_hover-color-green"></span><a class="navigation__link">О производстве</a></li>
+      <li class="navigation__item"><span class="navigation__fake-item navigation__fake-item_hover-color-pink"></span><a class="navigation__link">Продукция</a></li>
+      <li class="navigation__item"><span class="navigation__fake-item navigation__fake-item_hover-color-red"></span><a class="navigation__link">Фотогалерея</a></li>
+      <li class="navigation__item"><span class="navigation__fake-item navigation__fake-item_hover-color-violet"></span><a class="navigation__link">Новости</a></li>
+    </ul>
   </div>
 </div>
