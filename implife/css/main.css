@@ -1461,7 +1461,7 @@ footer {
 .main-slider {
   min-height: 46.875rem;
   overflow: hidden;
-  background-image: url("../implife/img/bg-min.png");
+  background-image: url("../img/bg-min.png");
   background-size: 200%;
   background-repeat: no-repeat;
   margin: 0 0 5rem; }
@@ -2004,7 +2004,7 @@ footer {
       color: #FF2F0C; }
 
 .main-container_background_products {
-  background-image: url("../implife/img/products-background.png");
+  background-image: url("../img/products-background.png");
   background-size: 155%;
   background-repeat: no-repeat; }
   .main-container_background_products:after {
@@ -2034,7 +2034,7 @@ footer {
 
 .main-container_background_about-comp {
   min-height: 27.5rem;
-  background-image: url("../implife/img/about-comp-bg.png");
+  background-image: url("../img/about-comp-bg.png");
   background-size: 150%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2049,7 +2049,7 @@ footer {
 
 .main-container_background_event-bg {
   min-height: 27.5rem;
-  background-image: url("../implife/img/event-bg.png");
+  background-image: url("../img/event-bg.png");
   background-size: 150%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2064,7 +2064,7 @@ footer {
 
 .main-container_background_traning-bg {
   min-height: 27.5rem;
-  background-image: url("../implife/img/traning-bg.png");
+  background-image: url("../img/traning-bg.png");
   background-size: 170%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2079,7 +2079,7 @@ footer {
 
 .main-container_background_branch-bg {
   min-height: 27.5rem;
-  background-image: url("../implife/img/branch-bg.png");
+  background-image: url("../img/branch-bg.png");
   background-size: 150%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2094,7 +2094,7 @@ footer {
 
 .main-container_background_publication-bg {
   min-height: 27.5rem;
-  background-image: url("../implife/img/publication-bg.png");
+  background-image: url("../img/publication-bg.png");
   background-size: 150%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2108,7 +2108,7 @@ footer {
       background-size: 800%; } }
 
 .main-container_background_about-comp-sub-bg {
-  background-image: url("../implife/img/about-comp-sub-bg.png");
+  background-image: url("../img/about-comp-sub-bg.png");
   background-size: 100%;
   background-repeat: no-repeat; }
   @media (max-width: 75rem) {
@@ -2328,7 +2328,7 @@ footer {
   .line_10deg {
     width: 100vw;
     height: 7.8125rem;
-    background-image: url("../implife/img/line-10deg.svg");
+    background-image: url("../img/line-10deg.svg");
     background-size: 110%; }
     @media (max-width: 30rem) {
       .line_10deg {
@@ -2340,13 +2340,13 @@ footer {
     margin: 0 0 7.5rem; }
   .line_curved-down-line {
     height: 5.625rem;
-    background-image: url("../implife/img/line-curved-down-line.svg"); }
+    background-image: url("../img/line-curved-down-line.svg"); }
   .line_curved-up-line {
     height: 5.625rem;
-    background-image: url("../implife/img/line-curved-up-line.svg"); }
+    background-image: url("../img/line-curved-up-line.svg"); }
   .line_derotation-line {
     height: 8.75rem;
-    background-image: url("../implife/img/line-derotation-line.svg"); }
+    background-image: url("../img/line-derotation-line.svg"); }
 
 .h4_margin_bottom {
   margin-bottom: 2.5rem; }
