@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="85px" viewBox="0 0 118 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="pricing-model-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hire" transform="translate(-1302.000000, -710.000000)">
+            <g id="Group-13" transform="translate(1201.000000, 706.000000)">
+                <g id="Group-23" transform="translate(97.000000, 0.000000)">
+                    <rect id="Rectangle-15" fill="#E5F3FE" transform="translate(52.355118, 46.681724) rotate(-330.000000) translate(-52.355118, -46.681724) " x="8.35511777" y="18.181724" width="88" height="57" rx="12"></rect>
+                    <g id="Group-22" transform="translate(24.000000, 8.000000)" stroke="#26578A" stroke-width="3">
+                        <rect id="Rectangle-15" fill="#E5F3FE" transform="translate(49.877079, 38.916924) rotate(-15.000000) translate(-49.877079, -38.916924) " x="7.37707914" y="11.916924" width="85" height="54" rx="12"></rect>
+                        <g id="Group-5-Copy-2" transform="translate(70.294095, 18.676639) rotate(-15.000000) translate(-70.294095, -18.676639) translate(60.294095, 13.676639)" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M-6.82121026e-13,0 L17,-4.4408921e-16 C18.6568542,-7.48448398e-16 20,1.34314575 20,3 L20,9.30507903" id="Path-8"></path>
+                        </g>
+                    </g>
+                    <g id="Group-16" transform="translate(19.000000, 27.000000)" fill="#FFFFFF" stroke="#26578A" stroke-width="3">
+                        <rect id="Rectangle-15" x="1.5" y="1.5" width="85" height="54" rx="12"></rect>
+                    </g>
+                    <path d="M42.3793103,39.4527478 C43.6702581,37.9510587 45.5837657,37 47.719405,37 C51.6070565,37 54.7586207,40.1515642 54.7586207,44.0392157 C54.7586207,47.9268672 51.6070565,51.0784314 47.719405,51.0784314 C45.5837657,51.0784314 43.6702581,50.1273727 42.3793103,48.6256836 C41.0883626,50.1273727 39.1748549,51.0784314 37.0392157,51.0784314 C33.1515642,51.0784314 30,47.9268672 30,44.0392157 C30,40.1515642 33.1515642,37 37.0392157,37 C39.1748549,37 41.0883626,37.9510587 42.3793103,39.4527478 Z" id="Combined-Shape" stroke="#26578A" stroke-width="3" fill="#E5F3FE"></path>
+                    <rect id="Rectangle-2" stroke="#26578A" stroke-width="3" fill="#E5F3FE" x="73.5" y="37.5" width="22" height="13" rx="3"></rect>
+                    <rect id="Rectangle-3" stroke="#26578A" stroke-width="3" fill="#E5F3FE" x="20.5" y="62.5" width="85" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

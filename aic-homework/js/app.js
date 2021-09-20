@@ -1,1 +1,0 @@
-$(document).ready(function(){new TypeIt("#text-1",{speed:50,autoStart:!1})});

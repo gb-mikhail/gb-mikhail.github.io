@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="137px" viewBox="0 0 139 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="47" cy="47" r="47"></circle>
+    </defs>
+    <g id="hire-talent-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hire" transform="translate(-493.000000, -673.000000)">
+            <g id="Group-15" transform="translate(390.000000, 681.000000)">
+                <g id="Group-9-Copy" transform="translate(111.000000, 0.000000)">
+                    <g id="Group-6-Copy">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask">
+                            <circle stroke="#FFFFFF" stroke-width="8" fill="#FFFFFF" fill-rule="evenodd" cx="47" cy="47" r="51"></circle>
+                            <circle stroke="#26578A" stroke-width="4" cx="47" cy="47" r="49"></circle>
+                        </g>
+                        <g mask="url(#mask-2)" id="Group-3-Copy">
+                            <g transform="translate(10.898551, 9.536232)">
+                                <g>
+                                    <path d="M18.883756,36.0785056 L18.883756,107.123603 L38.3390603,107.123603 C46.2704689,107.123603 52.9222337,101.136136 53.7536621,93.2484263 L56.0354701,71.6010542 L53.7536621,49.953682 C52.9222337,42.0659719 46.2704689,36.0785056 38.3390603,36.0785056 L18.883756,36.0785056 Z" id="Rectangle-7-Copy-3" stroke="#26578A" stroke-width="3" fill="#E5F3FE" transform="translate(37.463768, 71.601054) rotate(-90.000000) translate(-37.463768, -71.601054) "></path>
+                                    <path d="M27.2563406,45.4642764 L27.2563406,52.2879612 L36.6832729,56.9459158 L46.1102053,52.2879612 L46.1102053,45.4642764 L27.2563406,45.4642764 Z" id="Rectangle-6-Copy-2" stroke="#26578A" stroke-width="3" fill="#FFFFFF"></path>
+                                    <path d="M36.3735724,49.5375419 C46.7189063,49.5375419 55.1054565,41.2497621 55.1054565,31.0262676 C55.1054565,29.0397505 55.1054565,25.9545381 55.1054565,21.7706305 C55.7929625,15.7356691 56.139869,11.3649516 56.1461761,8.65847787 C56.1556367,4.5987673 55.1054565,0.174143823 55.1054565,0.174143823 C41.0565434,3.2593562 13.2189418,-9.85279641 17.6416884,21.7706305 C17.6416884,24.8581499 17.6416884,27.6536057 17.6416884,31.0262676 C17.6416884,41.2497621 26.0282385,49.5375419 36.3735724,49.5375419 Z" id="Oval-3-Copy-3" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                                    <path d="M23.4148551,16.9686681 C24.8157438,13.8834557 27.8510028,12.3408495 32.520632,12.3408495 C37.1902613,12.3408495 43.2607792,13.6906299 50.732186,16.3901908" id="Path-3-Copy-3" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                                    <path d="M15.6666667,75.5077233 L15.6666667,90.1624821" id="Path-5-Copy-6" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                                    <path d="M59.2608696,75.5077233 L59.2608696,90.1624821" id="Path-5-Copy-7" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round"></path>
+                                    <path d="M36.3205276,55.3353987 L28.8906433,65.824514 L22.849787,57.4669176 L32.0380058,51.3088165 L36.3205276,55.3353987 Z" id="Rectangle-6-Copy-10" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(29.658816, 58.233384) scale(-1, 1) translate(-29.658816, -58.233384) "></path>
+                                    <path d="M50.3694406,55.3353987 L42.9395564,65.824514 L36.8987,57.4669176 L46.0869188,51.3088165 L50.3694406,55.3353987 Z" id="Rectangle-6-Copy-11" stroke="#26578A" stroke-width="3" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-11-Copy" stroke="#FFFFFF" stroke-width="2" fill="#26578A" transform="translate(106.000000, 104.000000) rotate(-45.000000) translate(-106.000000, -104.000000) " x="94" y="75" width="24" height="58" rx="12"></rect>
+                    <rect id="Rectangle-11" fill="#26578A" transform="translate(91.000000, 88.000000) rotate(-45.000000) translate(-91.000000, -88.000000) " x="85" y="78" width="12" height="20"></rect>
+                    <g id="Group-11" transform="translate(100.000000, 91.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2">
+                        <path d="M0,0 L15.125,15.125" id="Path-7"></path>
+                        <path d="M19.25,19.25 L22,22" id="Path-7-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
