@@ -1509,7 +1509,9 @@ input:-webkit-autofill {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
-    margin: 0 0 2rem; }
+    margin: 0 0 2rem;
+    width: 90px;
+    align-self: center;}
   .icon-box-wrapper__icon-headling {
     font-family: 'Montserrat-Medium';
     font-size: 1.5rem;
